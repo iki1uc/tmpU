@@ -1,0 +1,5 @@
+﻿Zerlegung,Struktur,Vorteile,Einsatz
+8×4,"8 Reihen, 4 Spalten",Balanced,Raster‑Module
+4×8,"4 Reihen, 8 Spalten",Breite Layer,Orbit‑Flächen
+16×2,"16 Reihen, 2 Spalten",Linear,Sequenzen
+2×16,"2 Reihen, 16 Spalten",Horizontal,Bänder
